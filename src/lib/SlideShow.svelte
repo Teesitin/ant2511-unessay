@@ -77,11 +77,11 @@
     <div class="swiper-pagination absolute bottom-6 left-0 w-full z-50"></div>
 
     <!-- Navigation -->
-    <div class="lg:absolute hidden top-1/2 left-4 -translate-y-1/2 z-50">
+    <div class="hidden lg:inline absolute top-1/2 left-4 -translate-y-1/2 z-50">
         <button class="prev-btn bg-gray-800 text-white px-4 py-2 rounded">Prev</button>
     </div>
 
-    <div class="lg:absolute hidden top-1/2 right-4 -translate-y-1/2 z-50">
+    <div class="hidden lg:inline absolute top-1/2 right-4 -translate-y-1/2 z-50">
         <button class="next-btn bg-gray-800 text-white px-4 py-2 rounded">Next</button>
     </div>
 </div>
