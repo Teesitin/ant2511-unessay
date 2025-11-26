@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Rise of the Primates",
+        "era": "55-23 million years ago",
+        "description": "This era marks the beginning of true primate evolution. Early primate-like mammals called plesiadapiforms slowly developed better eyesight, improved balance, and larger brains. As the climate warmed and forests spread, these animals adapted to living in trees and moving with more coordination. Over time, more advanced primates known as euprimates appeared with clearer traits such as forward-facing eyes and grasping hands. Early anthropoids began to split into groups that resemble modern monkeys and apes, and by about 23 million years ago ape-like species like Proconsul had evolved, setting the foundation for later hominins.",
+        "img": "/bg/1.jpg"
+    },
+    {
+        "title": "The First Hominins",
+        "era": "7-4 million years ago",
+        "description": "The earliest hominins appeared in Africa and marked the start of the human branch of evolution. Species such as Sahelanthropus, Orrorin, and Ardipithecus had a mixture of ape-like and human-like traits. Some fossils show early signs of bipedal posture, even though they were not fully upright walkers. These species lived in environments that included forests, woodlands, and open areas, which may have encouraged more time spent on the ground. Their teeth and jaws also changed as diets shifted, and these early hominins represent the first steps toward what would become the human lineage.",
+        "img": "/bg/2.jpg"
+    },
+    {
+        "title": "Australopithecus and Early Bipedalism",
+        "era": "4-2 million years ago",
+        "description": "Australopithecines are an important stage in human evolution because they clearly walked upright. A well-known example is Australopithecus afarensis, or Lucy, whose skeleton shows adaptations for bipedal walking such as a shaped pelvis and long legs. Their brains were still small, closer to the size of modern apes, but their bodies showed major changes related to life on the ground. They lived in mixed environments that included woodlands and grasslands, and fossil evidence like the Laetoli footprints shows that they walked on two feet regularly. This group forms the connection between early hominins and the first members of the Homo genus.",
+        "img": "/bg/3.webp"
+    },
+    {
+        "title": "Early Homo and the Rise of Toolmakers",
+        "era": "2.4-1 million years ago",
+        "description": "The first members of the Homo genus appeared during this time with larger brains and better problem-solving abilities. Species like Homo habilis and Homo rudolfensis are associated with the earliest stone tools, which helped them cut meat and process plants. Later, Homo erectus evolved with an even more human-like body and greater brain size. Homo erectus was also the first hominin to migrate out of Africa into Asia and Europe. They used fire, created more advanced tools, and lived in organized groups, marking a major leap in intelligence and adaptability.",
+        "img": "/bg/4.jpg"
+    },
+    {
+        "title": "Archaic Humans and Ice Age Life",
+        "era": "800,000-40,000 years ago",
+        "description": "As global climates cooled, new species of archaic humans evolved to survive in harsh Ice Age environments. Neandertals developed strong bodies and large nasal areas that helped them handle cold temperatures. Denisovans lived in parts of Asia and are mostly known from DNA evidence. These groups controlled fire, made stone tools, built shelters, and sometimes created symbolic objects. They hunted large animals and lived in connected social groups. This era shows that before Homo sapiens became the only surviving human species, the world was home to several kinds of humans living in different regions.",
+        "img": "/bg/5.webp"
+    },
+    {
+        "title": "The Rise of Homo sapiens",
+        "era": "300,000 years ago to present",
+        "description": "Modern humans first evolved in Africa with rounded skulls, smaller faces, and more complex thinking abilities. They created symbolic art, advanced tools, and strong social structures. Over time they migrated across the globe and met other human species such as Neandertals and Denisovans, and evidence shows that they interbred with them. As humans spread, cultures and technologies developed quickly, including language, artwork, and long-distance trade. Eventually Homo sapiens became the only surviving human species and created the modern world.",
+        "img": "/bg/6.jpg"
+    },
+    {
+        "title": "Global Migration and Agriculture",
+        "era": "70,000-3,000 years ago",
+        "description": "Around 70,000 years ago humans migrated out of Africa and reached new regions including Australia, Europe, Siberia, and eventually the Americas. As populations grew, different groups created unique cultures and survival strategies. After the Ice Age, humans began farming and domesticating plants and animals. This change started the Neolithic Revolution, which allowed people to settle in one place rather than constantly move. Permanent settlements led to larger communities, new technologies, and the foundations of modern civilization.",
+        "img": "/bg/7.jpg"
+    },
+    {
+        "title": "Bones, Forensics, and the Modern Human Body",
+        "era": "3,000 years ago to today",
+        "description": "Human bones from the last few thousand years show how lifestyles, diets, and environments changed over time. Bioarchaeologists study ancient skeletons to understand daily activities, diseases, injuries, and how people adapted to life in farming or urban settings. These methods are also used in modern forensic work to identify individuals and determine causes of death. Bones provide information about age, sex, ancestry, and health, making them valuable for science and legal investigations. Studying the skeleton helps us understand both ancient populations and modern human biology.",
+        "img": "/bg/8.webp"
+    }
+]
